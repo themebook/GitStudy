@@ -1,1 +1,13 @@
+# 이곳에 적어놓는 모든 경로 및 파일명은 Git의 관리 대상에서 제외된다
+
+# 컴파일 결과물을 무시하라는 뜻
 /bin/
+
+# .classpath라는 파일을 무시하라는 뜻
+.classpath
+
+# .project라는 파일을 무시하라는 뜻
+.project
+
+# .settings 폴더의 모든 내용을 무시하라는 뜻
+/.settings/
